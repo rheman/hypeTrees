@@ -1,0 +1,23 @@
+{
+	"name": "pessek/hypetrees",
+	"type": "elgg-plugin",
+	"description": "API for building hierarchical trees of entities",
+	"keywords": [
+		"elgg", "plugin", "trees", "hierarchies"
+	],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Hermand PESSEK",
+			"email": "rhemandaddy@gmail.com"
+		}
+	],
+    "extra": {
+        "installer-name": "hypeTrees"
+    },
+	"require": {
+		"php": ">=7.0",
+		"composer/installers": "~1.0"
+    }
+}
+
